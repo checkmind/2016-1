@@ -1,6 +1,6 @@
 ### 这是我的在线简历：  
-[点我看看](http://ganjz.cn/web-ppt/index.html?_id=59dbeeae61d1c605b444e6a2)  
-
+[点我看看](http://ganjz.cn/web-ppt/index.html?_id=59dbeeae61d1c605b444e6a2)  
+## 更多详细内容请看PDF文档
 ### 项目整理  
 ## 这里放一些曾经做过的demo，有些是半成品，有些可能只是一些示例。  
 ### 我的笔记     
